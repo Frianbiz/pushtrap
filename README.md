@@ -1,4 +1,4 @@
-# Pushtrap
+# Pushtrap iOS
 
 Le mailtrap pour les notification push
 
