@@ -1,0 +1,6 @@
+framework module Pods_PushTrap {
+  umbrella header "Pods-PushTrap-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,32 @@
+PODS:
+  - OneSignal (2.8.6)
+  - PromiseKit (6.3.4):
+    - PromiseKit/CorePromise (= 6.3.4)
+    - PromiseKit/Foundation (= 6.3.4)
+    - PromiseKit/UIKit (= 6.3.4)
+  - PromiseKit/CorePromise (6.3.4)
+  - PromiseKit/Foundation (6.3.4):
+    - PromiseKit/CorePromise
+  - PromiseKit/UIKit (6.3.4):
+    - PromiseKit/CorePromise
+  - SwiftLint (0.25.1)
+
+DEPENDENCIES:
+  - OneSignal (= 2.8.6)
+  - PromiseKit (= 6.3.4)
+  - SwiftLint (= 0.25.1)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - OneSignal
+    - PromiseKit
+    - SwiftLint
+
+SPEC CHECKSUMS:
+  OneSignal: 0173a4e48c620089e4a1aba44c82d4148547d812
+  PromiseKit: e1425568123ec844a944c93f2bcb29d511d39cf5
+  SwiftLint: ce933681be10c3266e82576dad676fa815a602e9
+
+PODFILE CHECKSUM: d8c6183b19bae70d27b8503b1a6c862617ebd18c
+
+COCOAPODS: 1.5.3
